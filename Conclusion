@@ -1,0 +1,7 @@
+# In conclusion 
+
+In an actual work space the code would need to be changes. No information would actually be stored in the code.
+The password would be used for an external login site and I would also update the code to require the generated password and a password set by the authorized persons.
+This could also be implemented for a physcial door IoT device to get access into a server room, secure file room, etc. 
+
+This is just the foundation for the code and a lot can be done to manipulate it to make it usable in a real scenario. 
